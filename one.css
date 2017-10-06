@@ -55,7 +55,7 @@ nav li>a:active{
 p{
     font-size: 1.414rem;
     padding:0.5rem 2rem;
-    font-family: 'Zilla Slab', 'Times', Times New Roman, sserif;
+    font-family: 'Zilla Slab', 'Times', Times New Roman, serif;
 }
 main p:last-child{
     padding-bottom: 4rem;
